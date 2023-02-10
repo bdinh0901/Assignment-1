@@ -24,7 +24,7 @@ SAMPLE CALL:
 
 # How the microservice receives a request
 - The server awaits for the UI to send a request
-- Once a request is received the UI will then store the value in the request in a variable and send back a request received message (Server needs to send back response to allow the client tp send more requests)
+- Once a request is received the UI will then store the value in the request in a variable and send back a request received message (Server needs to send back response to allow the client to send more requests)
 - More requests are sent and their values are stored into variables as well
 - Once all selections are made the Server will return a value based on what the user's inputs are that are stored in the variables
 
