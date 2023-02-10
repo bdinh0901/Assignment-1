@@ -29,3 +29,4 @@ SAMPLE CALL:
 - Once all selections are made the Server will return a value based on what the user's inputs are that are stored in the variables
 
 #UML Diagram
+![CS361](https://user-images.githubusercontent.com/76972588/217996902-2f01d0f5-b416-4b69-96ac-4d2b98d0a986.jpeg)
