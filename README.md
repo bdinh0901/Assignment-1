@@ -28,5 +28,5 @@ SAMPLE CALL:
 - More requests are sent and their values are stored into variables as well
 - Once all selections are made the Server will return a value based on what the user's inputs are that are stored in the variables
 
-#UML Diagram
+# UML Diagram
 ![image](https://user-images.githubusercontent.com/76972588/217997136-692d6e9e-e2e0-48a9-8ed7-e4d5f8ece5f0.png)
