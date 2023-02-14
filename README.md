@@ -14,11 +14,12 @@ You will need the following items to use the service
 - The server will then receive those next requests and store them in a variable
 
 SAMPLE CALL:
-- User selects options in the first window and submits
+- User selects options in the first window and submits (For example they pick beginner)
 - This will send a request to the server with the user's selection values
-- The server will send back a request received message to allow the client to send more requests
-- The user will then send more request based on how ever many selection screens the UI has
+- The server will send back a message "received message" to allow the client to send more requests
+- The user will then send more request based on how ever many selection screens the UI has (For example the 2nd user input is ranged character)
 - As the UI sends in these requests the server is saving them in variables and then will return the expected results based on user selections
+  (The values beginner and ranged is saved and we use that to filter down which dataset to send back)
 
 
 
